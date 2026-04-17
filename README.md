@@ -38,7 +38,6 @@ I am a **AI-Driven Test Automation Leader** with **18+ years of experience** bui
 ---
 
 ### 🤖 Self-Healing Framework
-<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="250"/>
 
 - AI-based locator healing  
 - Reduces flaky tests  
@@ -46,7 +45,7 @@ I am a **AI-Driven Test Automation Leader** with **18+ years of experience** bui
 
 ---
 
-### 📸 Visual Testing (AI + Percy)
+### 📸 Visual Testing (BackstopJS)
 <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="250"/>
 
 - Intelligent visual comparison  

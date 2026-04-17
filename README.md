@@ -15,7 +15,7 @@
 
 <img align="right" alt="QA GIF" width="300" src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif"/>
 
-I am a **Senior Manager – QA | AI-Driven Test Automation Leader** with **18+ years of experience** building scalable, enterprise-grade quality engineering solutions.
+I am a **AI-Driven Test Automation Leader** with **18+ years of experience** building scalable, enterprise-grade quality engineering solutions.
 
 🔹 I design **robust automation frameworks**  
 🔹 I lead **QA transformations at scale**  
